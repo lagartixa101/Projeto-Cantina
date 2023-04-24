@@ -93,15 +93,15 @@
     color: #FFFFFF;
 }
 
-.espaco1 {
+.Sobre {
 	width: 180px;
 	padding: 0px;
     padding-right: 45px;
 	float: left;
     
 }
-.espaco1 h2, p {
-    color: #006EFF;
+.Sobre h2, p {
+    color: #ffffff;
 }
 
 .dadosrodape2 {
@@ -145,11 +145,11 @@
 	
 }
 
-.dadosrodape1 {
+.dadosrodape1, .dadosrodape2, .Sobre {
 	overflow: hidden;
 }
 
-.dadosrodape1 p {
+.dadosrodape1 p, .dadosrodape2 p {
 	color: #FFFFFF;
 	text-indent: 0px;
 }
@@ -189,19 +189,19 @@
     font-family: 'Noto Sans JP', sans-serif;
 }
 
-#descricao {
+#bemvindo {
 	width: 260px;
 	padding-left: 20px;
 	padding-right: 20px;
 	float: left;
 }
 
-#descricao h2 {
+#bemvindo h2 {
 	text-align: center;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
-#descricao p {
+#bemvindo p {
 	margin-top: 10px;
 	color: #000000;
 }
